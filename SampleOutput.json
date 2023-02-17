@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Kara Scannell, Patrick Oppmann, Allison Morrow",
+    "title": "FTX founder Sam Bankman-Fried agrees to be extradited to the US - CNN",
+    "description": "FTX founder Sam Bankman-Fried agreed to be extradited to the United States, where federal prosecutors have indicted him on eight counts of fraud and conspiracy.",
+    "url": "https://www.cnn.com/2022/12/19/business/sbf-extradition-bahamas/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221214130507-sam-bankman-fried-nassau-bahamas-court-1213.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-12-20T02:32:00Z",
+    "content": "FTX founder Sam Bankman-Fried agreed to be extradited to the United States, where federal prosecutors have indicted him on eight counts of fraud and conspiracy.\r\nJerone Roberts, the attorney represen… [+4198 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "By <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, <a href=\"/profiles/maureen-chowdhury\">Maureen Chowdhury</a>, <a href=\"/profiles/elise-hammond\">Elise Hammond</a>, Melissa Macaya and <a href=\"/profiles/meg-wagner\">Meg Wagner</a>, CNN",
+    "title": "Live updates: Jan. 6 committee votes to issue criminal referrals against Trump - CNN",
+    "description": "The Jan. 6 committee voted to approve its final report and the referral of multiple criminal charges against former President Donald Trump to the DOJ during the panel's final public meeting Monday. Watch live and follow the latest news updates here.",
+    "url": "https://www.cnn.com/politics/live-news/jan-6-committee-public-meeting/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/221219132834-02-january-6-committee-meeting-1219-super-tease.jpg",
+    "publishedAt": "2022-12-20T01:35:00Z",
+    "content": "The Jan. 6 committee used its final public meeting Monday to summarize its 17-month investigation with a simple closing statement: All roads lead to Donald Trump.\r\nHere are some of the key takeaways:… [+2877 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Nouran Salahieh, Cheri Mossburg",
+    "title": "Harvey Weinstein is convicted of 3 of 7 charges, including rape, in his Los Angeles sexual assault trial - CNN",
+    "description": "[Breaking news update, published at 7:46 p.m. ET]",
+    "url": "https://www.cnn.com/2022/12/19/us/harvey-weinstein-trial-deliberations-los-angeles-monday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221011183258-harvey-weinstein-court-100422.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-12-20T00:33:00Z",
+    "content": "[Breaking news update, published at 7:46 p.m. ET]\r\nFormer movie producer Harvey Weinstein was found guilty of three of seven charges against him, including rape, Monday in a Los Angeles sexual assaul… [+8262 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Ashley Strickland",
+    "title": "Doomed exoplanet will be obliterated as it spirals into a star - CNN",
+    "description": "Astronomers have found an exoplanet that is spiraling closer to its host star — and eventually, total obliteration.",
+    "url": "https://www.cnn.com/2022/12/19/world/doomed-exoplanet-aging-star-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221216151101-exoplanet-kepler-1658b.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-12-19T14:36:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAstronomers have come across an exoplanet with a gloom… [+3719 chars]"
+    }
+    ]
+    }
